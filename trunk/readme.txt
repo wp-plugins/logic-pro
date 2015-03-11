@@ -78,8 +78,11 @@ Initial Release.  No Upgrade actions required.
 
 == Screenshots ==
 
-1. Main Visitor Logic Lite "Logic Block" settings.
-2. Categories Settings for a Visitor Logic Lite "Logic BLock".
+1. Visitor Logic Lite "Logic Block" settings.
+2. General Settings for a Visitor Logic Lite "Logic BLock".
+3. Categories
+4. Pages
+5. Posts
 
 == Changelog ==
 
