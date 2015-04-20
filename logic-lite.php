@@ -4,7 +4,7 @@
   Plugin URI: http://VisitorLogicPro.com
   Description: Visitor Logic Lite is a fully adaptable WordPress plugin that allows you to define an unlimited number of “Logic Blocks” or “group of settings” that allow you to determine when to display or to hide a block of content based on how a visitor is using your site.
   Author: RCH Tech Solutions 
-  Version: 1.0
+  Version: 1.0.1
  */
 
 define ('LP_DOMAIN','logicLite');	
