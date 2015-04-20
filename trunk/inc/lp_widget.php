@@ -1,8 +1,11 @@
 <?php
 
-add_action( 'widgets_init', function(){
-     register_widget( 'lp_widget' );
-});
+add_action( 'widgets_init', 'vll_reg_widget');
+
+function vll_reg_widget()
+{
+	register_widget( 'lp_widget' );
+}
 
 
 class lp_widget extends WP_Widget {

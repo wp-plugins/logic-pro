@@ -4,7 +4,7 @@ Donate link: http://VisitorLogicPro.com
 Tags: Visitor Logic, Sidebar per page, widget logic, logic blocks, widgets per category, conditional messaging
 Requires at least: 3.0.1
 Tested up to: 4.2
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -76,6 +76,9 @@ Instead of custom coding these elements with high priced developers, use Visitor
 = 1.0 =
 Initial Release.  No Upgrade actions required.
 
+= 1.0.1 =
+Upgrade is only required if moving plugin to host with PHP < 5.3
+
 == Screenshots ==
 
 1. Visitor Logic Lite "Logic Block" settings.
@@ -87,4 +90,6 @@ Initial Release.  No Upgrade actions required.
 == Changelog ==
 
 1.0  Initial Release of Visitor Logic Lite
+
+1.0.1  Update a function to be backwards compatible with PHP < 5.3
 
