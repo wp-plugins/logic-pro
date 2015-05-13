@@ -5,7 +5,7 @@ if (!class_exists('lp_infusion') )
 class lp_infusion
 {
 	public $title = 'InfusionSoft';
-	
+	public $defaults = array();
 	public function __construct()
 	{
 		global $lp_core;

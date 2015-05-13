@@ -5,6 +5,7 @@ if (!class_exists('lp_aweber') )
 class lp_aweber
 {
 	public $title = 'aWeber';
+	public $defaults = array();
 	public function __construct()
 	{
 		global $lp_core;

@@ -5,6 +5,7 @@ if (!class_exists('lp_getresponse') )
 class lp_getresponse
 {
 	public $title = 'GetResponse';
+	public $defaults = array();
 	public function __construct()
 	{
 		global $lp_core;

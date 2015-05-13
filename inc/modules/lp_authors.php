@@ -5,7 +5,7 @@ if (!class_exists('lp_authors') )
 class lp_authors
 {
 	public $title = 'Authors';
-	
+	public $defaults = array();
 	public function __construct()
 	{
 		global $lp_core;
